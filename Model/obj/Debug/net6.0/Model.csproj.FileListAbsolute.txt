@@ -1,0 +1,12 @@
+G:\Projact\Cshap\EnglishPrison\Model\bin\Debug\net6.0\Model.deps.json
+G:\Projact\Cshap\EnglishPrison\Model\bin\Debug\net6.0\Model.dll
+G:\Projact\Cshap\EnglishPrison\Model\bin\Debug\net6.0\Model.pdb
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\Model.dll
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\refint\Model.dll
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\Model.pdb
+G:\Projact\Cshap\EnglishPrison\Model\obj\Debug\net6.0\ref\Model.dll

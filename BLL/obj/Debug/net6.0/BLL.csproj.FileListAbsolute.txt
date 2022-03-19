@@ -1,0 +1,17 @@
+G:\Projact\Cshap\EnglishPrison\BLL\bin\Debug\net6.0\BLL.deps.json
+G:\Projact\Cshap\EnglishPrison\BLL\bin\Debug\net6.0\BLL.dll
+G:\Projact\Cshap\EnglishPrison\BLL\bin\Debug\net6.0\BLL.pdb
+G:\Projact\Cshap\EnglishPrison\BLL\bin\Debug\net6.0\DAL.dll
+G:\Projact\Cshap\EnglishPrison\BLL\bin\Debug\net6.0\Model.dll
+G:\Projact\Cshap\EnglishPrison\BLL\bin\Debug\net6.0\DAL.pdb
+G:\Projact\Cshap\EnglishPrison\BLL\bin\Debug\net6.0\Model.pdb
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.dll
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\refint\BLL.dll
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\BLL.pdb
+G:\Projact\Cshap\EnglishPrison\BLL\obj\Debug\net6.0\ref\BLL.dll
