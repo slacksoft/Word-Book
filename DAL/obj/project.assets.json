@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj",
+      "projectUniqueName": "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj",
+      "projectPath": "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\obj\\",
+      "outputPath": "G:\\Projact\\Cshap\\Word-Book\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj": {
-              "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj"
+            "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj": {
+              "projectPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj"
             }
           }
         }

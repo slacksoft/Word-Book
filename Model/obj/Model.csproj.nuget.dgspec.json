@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj": {}
+    "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj": {}
   },
   "projects": {
-    "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj": {
+    "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj",
+        "projectUniqueName": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj",
+        "projectPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\obj\\",
+        "outputPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

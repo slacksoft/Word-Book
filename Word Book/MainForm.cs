@@ -16,12 +16,18 @@ namespace EnglishPrison
         {
             InitializeComponent();
         }
-        int i = 1;
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            wordListView1.Add(new TheWord("Book","Lesson","Word"+i.ToString(),"µ¥´Ê" + i.ToString()));
-            i++;
+            Task task = new Task(()=>{
+                for (int i = 1; i <= 20; i++)
+                {
+                    this.Invoke(new Action(()=> {
+                        wordListView1.Add(new TheWord("Book", "Lesson", "Word" + i.ToString(), "µ¥´Ê" + i.ToString()));
+                    }));
+                    Thread.Sleep(100);
+                }
+            });
+           task.Start();
         }
 
         private void button2_Click(object sender, EventArgs e)

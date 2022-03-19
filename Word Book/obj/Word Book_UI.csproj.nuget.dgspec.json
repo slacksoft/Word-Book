@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projact\\Cshap\\EnglishPrison\\Word Book\\Word Book_UI.csproj": {}
+    "G:\\Projact\\Cshap\\Word-Book\\Word Book\\Word Book_UI.csproj": {}
   },
   "projects": {
-    "G:\\Projact\\Cshap\\EnglishPrison\\BLL\\BLL.csproj": {
+    "G:\\Projact\\Cshap\\Word-Book\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projact\\Cshap\\EnglishPrison\\BLL\\BLL.csproj",
+        "projectUniqueName": "G:\\Projact\\Cshap\\Word-Book\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\BLL\\BLL.csproj",
+        "projectPath": "G:\\Projact\\Cshap\\Word-Book\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "G:\\Projact\\Cshap\\EnglishPrison\\BLL\\obj\\",
+        "outputPath": "G:\\Projact\\Cshap\\Word-Book\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj": {
-                "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj"
+              "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj": {
+                "projectPath": "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj"
               },
-              "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj": {
-                "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj"
+              "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj": {
+                "projectPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj": {
+    "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj",
+        "projectUniqueName": "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj",
+        "projectPath": "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\obj\\",
+        "outputPath": "G:\\Projact\\Cshap\\Word-Book\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj": {
-                "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj"
+              "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj": {
+                "projectPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj"
               }
             }
           }
@@ -123,14 +123,14 @@
         }
       }
     },
-    "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj": {
+    "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj",
+        "projectUniqueName": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj",
+        "projectPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\obj\\",
+        "outputPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -177,14 +177,14 @@
         }
       }
     },
-    "G:\\Projact\\Cshap\\EnglishPrison\\Word Book\\Word Book_UI.csproj": {
+    "G:\\Projact\\Cshap\\Word-Book\\Word Book\\Word Book_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projact\\Cshap\\EnglishPrison\\Word Book\\Word Book_UI.csproj",
+        "projectUniqueName": "G:\\Projact\\Cshap\\Word-Book\\Word Book\\Word Book_UI.csproj",
         "projectName": "Word Book_UI",
-        "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\Word Book\\Word Book_UI.csproj",
+        "projectPath": "G:\\Projact\\Cshap\\Word-Book\\Word Book\\Word Book_UI.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "G:\\Projact\\Cshap\\EnglishPrison\\Word Book\\obj\\",
+        "outputPath": "G:\\Projact\\Cshap\\Word-Book\\Word Book\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -201,14 +201,14 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "G:\\Projact\\Cshap\\EnglishPrison\\BLL\\BLL.csproj": {
-                "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\BLL\\BLL.csproj"
+              "G:\\Projact\\Cshap\\Word-Book\\BLL\\BLL.csproj": {
+                "projectPath": "G:\\Projact\\Cshap\\Word-Book\\BLL\\BLL.csproj"
               },
-              "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj": {
-                "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\DAL\\DAL.csproj"
+              "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj": {
+                "projectPath": "G:\\Projact\\Cshap\\Word-Book\\DAL\\DAL.csproj"
               },
-              "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj": {
-                "projectPath": "G:\\Projact\\Cshap\\EnglishPrison\\Model\\Model.csproj"
+              "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj": {
+                "projectPath": "G:\\Projact\\Cshap\\Word-Book\\Model\\Model.csproj"
               }
             }
           }

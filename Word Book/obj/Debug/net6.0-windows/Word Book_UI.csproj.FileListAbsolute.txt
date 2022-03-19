@@ -24,3 +24,29 @@ G:\Projact\Cshap\EnglishPrison\Word Book\obj\Debug\net6.0-windows\refint\Word Bo
 G:\Projact\Cshap\EnglishPrison\Word Book\obj\Debug\net6.0-windows\Word Book_UI.pdb
 G:\Projact\Cshap\EnglishPrison\Word Book\obj\Debug\net6.0-windows\Word Book_UI.genruntimeconfig.cache
 G:\Projact\Cshap\EnglishPrison\Word Book\obj\Debug\net6.0-windows\ref\Word Book_UI.dll
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Word Book_UI.exe
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Word Book_UI.deps.json
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Word Book_UI.runtimeconfig.json
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Word Book_UI.dll
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Word Book_UI.pdb
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\BLL.dll
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\DAL.dll
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Model.dll
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\BLL.pdb
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\DAL.pdb
+G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Model.pdb
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.csproj.AssemblyReference.cache
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\EnglishPrison.MainForm.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\EnglishPrison_UI.WordListView.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\EnglishPrison_UI.WordListViewItem.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.csproj.GenerateResource.cache
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.AssemblyInfoInputs.cache
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.AssemblyInfo.cs
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.csproj.CoreCompileInputs.cache
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.csproj.CopyComplete
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.dll
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\refint\Word Book_UI.dll
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.pdb
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.genruntimeconfig.cache
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\ref\Word Book_UI.dll
