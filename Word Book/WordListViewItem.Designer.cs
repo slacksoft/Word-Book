@@ -1,4 +1,4 @@
-﻿namespace EnglishPrison_UI
+﻿namespace Word_Book_UI
 {
     partial class WordListViewItem
     {

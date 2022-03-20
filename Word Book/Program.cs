@@ -1,4 +1,4 @@
-namespace EnglishPrison
+namespace Word_Book_UI
 {
     internal static class Program
     {

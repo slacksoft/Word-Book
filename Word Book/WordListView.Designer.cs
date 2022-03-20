@@ -1,4 +1,4 @@
-﻿namespace EnglishPrison_UI
+﻿namespace Word_Book_UI
 {
     partial class WordListView
     {
@@ -33,7 +33,7 @@
             // 
             // ListPanel
             // 
-            this.ListPanel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.ListPanel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ListPanel.AutoSize = true;
             this.ListPanel.ColumnCount = 1;
@@ -62,6 +62,6 @@
 
         #endregion
 
-        private TableLayoutPanel ListPanel;
+        public TableLayoutPanel ListPanel;
     }
 }

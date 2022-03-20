@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Model;
-namespace EnglishPrison_UI
+namespace Word_Book_UI
 {
     /// <summary>
     /// 自绘List控件
@@ -23,15 +23,38 @@ namespace EnglishPrison_UI
         {
 
         }
+        WordListViewItem _CheckedItem;
         /// <summary>
         /// 被选中的Item
         /// </summary>
-        public WordListViewItem CheckedItem ;
+        public WordListViewItem CheckedItem {
+            set {
+                if (_CheckedItem!=value) {
+                    _CheckedItem = value;
+                    if (_CheckedItem != null) {
+                        Item_Change();
+                    }
+                }
+            }
+            get { return _CheckedItem; }
+        }
+        /// <summary>
+        /// Item改变的委托事件
+        /// </summary>
+        public delegate void ItemChange();
+        /// <summary>
+        /// 暴露Item改变的事件
+        /// </summary>
+        public event ItemChange Item_Change = ()=>{};
         /// <summary>
         /// 记录每个Item
         /// </summary>
         public List<WordListViewItem> Items = new List<WordListViewItem>();
         public int Row = 1;
+        /// <summary>
+        /// 添加项
+        /// </summary>
+        /// <param name="word">word</param>
         public void Add(TheWord word)
         {
             ListPanel.RowStyles.Add(new RowStyle());
@@ -42,12 +65,18 @@ namespace EnglishPrison_UI
             Items.Add(wordListViewItem);
             Row++;
         }
-        public void Clean() {
+        /// <summary>
+        /// 清除全部项
+        /// </summary>
+        public void CleanAll() {
             Row = 0;
             Items = new List<WordListViewItem>();
             ListPanel.Controls.Clear();
              CheckedItem = null;
         }
+        /// <summary>
+        /// 清除选中项
+        /// </summary>
         public void RemoveChecked() {
             ListPanel.Controls.Remove(CheckedItem);
         }

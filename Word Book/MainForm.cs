@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Model;
-namespace EnglishPrison
+namespace Word_Book_UI
 {
     public partial class MainForm : Form
     {
@@ -16,30 +16,34 @@ namespace EnglishPrison
         {
             InitializeComponent();
         }
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            List<TheWord> theWords = new List<TheWord>();
+            for (int i = 0;i<100;i++) {
+                theWords.Add(new TheWord("","","Hello"+i.ToString(),"ÄãºÃ"+i.ToString()));
+            }
+            wordListViewFull1.SetValue(theWords);
+        }
+
+        private void wordListView1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
-            Task task = new Task(()=>{
-                for (int i = 1; i <= 20; i++)
-                {
-                    this.Invoke(new Action(()=> {
-                        wordListView1.Add(new TheWord("Book", "Lesson", "Word" + i.ToString(), "µ¥´Ê" + i.ToString()));
-                    }));
-                    Thread.Sleep(100);
-                }
-            });
-           task.Start();
+
+        }
+       
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+      
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void wordListViewFull1_Item_Change()
         {
-            wordListView1.RemoveChecked();
-        }
-
-
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            wordListView1.Clean();
+            MessageBox.Show(wordListViewFull1.wordListView.CheckedItem.word.word);
         }
     }
 }

@@ -9,16 +9,17 @@ namespace Model
     /// <summary>
     /// 单词类
     /// </summary>
+    [Serializable]
     public class TheWord
     {
         /// <summary>
         /// 课本
         /// </summary>
-        public string book = "";
+        public string bookid = "";
         /// <summary>
         /// 课时
         /// </summary>
-        public string lesson = "";
+        public string lessonid = "";
         /// <summary>
         /// 单词
         /// </summary>
@@ -27,13 +28,18 @@ namespace Model
         /// 翻译
         /// </summary>
         public string translate = "";
+        public DateTime AddTime;
+        //添加
+        public DateTime LastDayofStudy;
+        //学习次数
+        public int StudyNumber;
         /// <summary>
         /// 构造函数
         /// </summary>
-        public TheWord(string book,string lesson,string word,string translate)
+        public TheWord(string bookid,string lessonid,string word,string translate)
         {
-            this.book = book;
-            this.lesson = lesson;
+            this.bookid = bookid;
+            this.lessonid = lessonid;
             this.word = word;
             this.translate = translate;
         }

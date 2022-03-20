@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Model;
-namespace EnglishPrison_UI
+namespace Word_Book_UI
 {
     public partial class WordListViewItem : UserControl
     {

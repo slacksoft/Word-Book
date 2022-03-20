@@ -36,9 +36,6 @@ G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\BLL.pdb
 G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\DAL.pdb
 G:\Projact\Cshap\Word-Book\Word Book\bin\Debug\net6.0-windows\Model.pdb
 G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.csproj.AssemblyReference.cache
-G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\EnglishPrison.MainForm.resources
-G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\EnglishPrison_UI.WordListView.resources
-G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\EnglishPrison_UI.WordListViewItem.resources
 G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.csproj.GenerateResource.cache
 G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.GeneratedMSBuildEditorConfig.editorconfig
 G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.AssemblyInfoInputs.cache
@@ -50,3 +47,9 @@ G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\refint\Word Book_U
 G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.pdb
 G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word Book_UI.genruntimeconfig.cache
 G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\ref\Word Book_UI.dll
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word_Book_UI.AddBook.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word_Book_UI.AddLesson.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word_Book_UI.WordListViewFull.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word_Book_UI.MainForm.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word_Book_UI.WordListView.resources
+G:\Projact\Cshap\Word-Book\Word Book\obj\Debug\net6.0-windows\Word_Book_UI.WordListViewItem.resources
